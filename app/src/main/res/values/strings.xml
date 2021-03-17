@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContractorCalculator</string>
+    <string name="labor_cost">Labor Cost:</string>
+    <string name="calculate">Calculate</string>
+    <string name="materials_cost">Materials Cost:</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="total">Total:</string>
+    <string name="tax">Tax:</string>
+    <string name="contractor_calculator">Contractor Calculator</string>
+</resources>
